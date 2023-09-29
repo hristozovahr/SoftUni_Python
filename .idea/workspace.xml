@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18a99f43-9345-49e9-a1a7-7ca0459f5b4d" name="Changes" comment="Exercise">
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Excercise/chars_to_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Excercise/elevator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Excercise/integer_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Excercise/sum_of_chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Practice/centuries_to_minutes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Practice/concat_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Practice/convert_meters_to_kilometers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Practice/next_happy_year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Practice/pounds _to_dollars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Practice/special_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Excercise/party_profit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Excercise/triples_of_latin_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Data Types and Variables/Excercise/water_overflow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.Data Types and Variables/Excercise/print_part_of_the_ASCII_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.Data Types and Variables/Excercise/print_part_of_the_ASCII_table.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +44,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
-  <component name="RunManager" selected="Python.sum_of_chars">
-    <configuration name="chars_to_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.party_profit">
+    <configuration name="party_profit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Data Types and Variables/Excercise/chars_to_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Data Types and Variables/Excercise/party_profit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="elevator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print_part_of_the_ASCII_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,49 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Data Types and Variables/Excercise/elevator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="integer_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Data Types and Variables/Excercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Data Types and Variables/Excercise/integer_operations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="next_happy_year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Data Types and Variables/Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Data Types and Variables/Practice/next_happy_year.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Data Types and Variables/Excercise/print_part_of_the_ASCII_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,13 +108,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="triples_of_latin_letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Data Types and Variables/Excercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Data Types and Variables/Excercise/triples_of_latin_letters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="water_overflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Data Types and Variables/Excercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Data Types and Variables/Excercise/water_overflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.party_profit" />
+        <item itemvalue="Python.water_overflow" />
+        <item itemvalue="Python.triples_of_latin_letters" />
+        <item itemvalue="Python.print_part_of_the_ASCII_table" />
         <item itemvalue="Python.sum_of_chars" />
-        <item itemvalue="Python.elevator" />
-        <item itemvalue="Python.chars_to_string" />
-        <item itemvalue="Python.integer_operations" />
-        <item itemvalue="Python.next_happy_year" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695813671271</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercise">
+      <created>1695975690155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695975690155</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
