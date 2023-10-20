@@ -2,38 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18a99f43-9345-49e9-a1a7-7ca0459f5b4d" name="Changes" comment="Exercise">
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/double_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/easter_bread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/how_much_coffee_do_you_need.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/mutate_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/sorting_hat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/string_pureness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Practice H/even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Practice H/largest_of_three_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Practice H/number_between_1_and_100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Practice H/number_definer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Practice H/patterns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Practice H/shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Practice H/word_reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/football_cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/invert_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/multiples_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/number_beggars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Practice/numbers_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Practice/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Functions/Practice/absolute_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Functions/Practice/calculations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Functions/Practice/grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Functions/Practice/repeat_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/bread_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/easter_gifts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/faro_shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/survival_of_the_biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/no_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/palindrome_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/sorting_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/the _office.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/to_do_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/trains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam Exercise/bonus_scoring_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/black_flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/computer_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/man_o_war.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/new_memory_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/shopping_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/the_lift.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/chat_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/chat_codes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/drink_something.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/drink_something.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/jenny`s_secret_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/jenny`s_secret_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/maximum_multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/maximum_multiple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/christmas_spirit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Data Types and Variables/notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.Data Types and Variables/notes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Lists Basics/Practice/list_statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.Lists Basics/Practice/list_statistics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowProblems.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -78,8 +66,8 @@
       <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\1.Basic Syntax, Conditional Statements and Loops\Practice H\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.christmas_spirit">
-    <configuration name="christmas_spirit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.the _office">
+    <configuration name="computer_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam Preparation/MidExam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/christmas_spirit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam Preparation/MidExam/computer_store.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="easter_bread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="palindrome_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. List Advanced/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/easter_bread.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. List Advanced/Practice/palindrome_strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="how_much_coffee_do_you_need" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="shopping_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam Preparation/MidExam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/how_much_coffee_do_you_need.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam Preparation/MidExam/shopping_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mutate_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sorting_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. List Advanced/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/mutate_strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. List Advanced/Practice/sorting_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sorting_hat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="the _office" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. List Advanced/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Exercise/sorting_hat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. List Advanced/Practice/the _office.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.christmas_spirit" />
-        <item itemvalue="Python.easter_bread" />
-        <item itemvalue="Python.mutate_strings" />
-        <item itemvalue="Python.sorting_hat" />
-        <item itemvalue="Python.how_much_coffee_do_you_need" />
+        <item itemvalue="Python.the _office" />
+        <item itemvalue="Python.sorting_names" />
+        <item itemvalue="Python.palindrome_strings" />
+        <item itemvalue="Python.computer_store" />
+        <item itemvalue="Python.shopping_list" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696246509638</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercise">
+      <created>1697453773263</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697453773263</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
