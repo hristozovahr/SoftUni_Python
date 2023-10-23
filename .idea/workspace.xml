@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18a99f43-9345-49e9-a1a7-7ca0459f5b4d" name="Changes" comment="Exercise">
-      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/bread_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/easter_gifts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/faro_shuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists Basics/Excercise/survival_of_the_biggest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/no_vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/palindrome_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/sorting_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/the _office.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/to_do_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. List Advanced/Practice/trains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam Exercise/bonus_scoring_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/black_flag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/computer_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/man_o_war.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/new_memory_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/shopping_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/MidExam/the_lift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. List Advanced/Exercice/next_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. List Advanced/Exercice/which_are_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. List Advanced/Exercice/word_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/MidExam/experience_gaining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/MidExam/tax_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. List Advanced/Practice/even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. List Advanced/Practice/even_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,33 +50,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\5. List Advanced\Exercice" />
       <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\1.Basic Syntax, Conditional Statements and Loops" />
       <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\1.Basic Syntax, Conditional Statements and Loops\Practice H\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.the _office">
-    <configuration name="computer_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam Preparation/MidExam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam Preparation/MidExam/computer_store.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="palindrome_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.experience_gaining">
+    <configuration name="even_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. List Advanced/Practice/palindrome_strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. List Advanced/Practice/even_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shopping_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="experience_gaining" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam Preparation/MidExam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exams/MidExam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam Preparation/MidExam/shopping_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exams/MidExam/experience_gaining.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sorting_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="next_version" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. List Advanced/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. List Advanced/Exercice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. List Advanced/Practice/sorting_names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. List Advanced/Exercice/next_version.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,13 +140,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="which_are_in" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. List Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\5. List Advanced\Exercice\which_are_in.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.experience_gaining" />
+        <item itemvalue="Python.next_version" />
+        <item itemvalue="Python.which_are_in" />
+        <item itemvalue="Python.even_numbers" />
         <item itemvalue="Python.the _office" />
-        <item itemvalue="Python.sorting_names" />
-        <item itemvalue="Python.palindrome_strings" />
-        <item itemvalue="Python.computer_store" />
-        <item itemvalue="Python.shopping_list" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697453773263</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercise">
+      <created>1697791482818</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697791482818</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +276,11 @@
           <url>file://$PROJECT_DIR$/3.Lists Basics/Excercise/multiples_list.py</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exams/MidExam/experience_gaining.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
