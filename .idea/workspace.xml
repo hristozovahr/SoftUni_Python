@@ -2,19 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18a99f43-9345-49e9-a1a7-7ca0459f5b4d" name="Changes" comment="Exercise">
-      <change afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23/3.painting_eggs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23/4. balls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23/5.care_of_puppy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23/6.easter_competition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-June23/1.series_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-June23/2.skeleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/catalogue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/town.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/weapon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Practice/comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Practice/email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Practice/party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Practice/zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam Exercise/1.bonus_scoring_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam Exercise/2.mu_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam Exercise/3.heart_delivery.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basics/Exam_Preparation/1.easter_lunch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-May23/1.easter_lunch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basics/Exam_Preparation/2.football_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-May23/2.football_results.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basics/Exam_Preparation/3.mobile_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-May23/3.mobile_operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basics/Exam_Preparation/4. pc_game_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-May23/4. pc_game_shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basics/Exam_Preparation/5.suitcases_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-May23/5.suitcases_load.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basics/Exam_Preparation/6.tournament_of_christmas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-May23/6.tournament_of_christmas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam Exercise/bonus_scoring_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/articles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam/man_o_war.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam/3.man_o_war.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +36,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -52,7 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowProblems.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-May23" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python Fundamentals/6.OOP-Objects and Classes/Practice" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -60,15 +73,15 @@
       <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\Python Fundamentals" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\Python Fundamentals\6.OOP-Objects and Classes\Practice" />
       <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\Python Basics\Exam_Preparation\ExamPrep-May23" />
       <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\Python Fundamentals" />
       <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\5. List Advanced\Exercice" />
       <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\1.Basic Syntax, Conditional Statements and Loops" />
-      <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\1.Basic Syntax, Conditional Statements and Loops\Practice H\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6.easter_competition">
-    <configuration name="2.skeleton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.town">
+    <configuration name="articles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-June23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-June23/2.skeleton.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/articles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.painting_eggs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23/3.painting_eggs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/inventory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. balls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23/4. balls.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/movie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.care_of_puppy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="town" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23/5.care_of_puppy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/town.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.easter_competition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basics/Exam_Preparation/ExamPrep-April23/6.easter_competition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/vehicle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6.easter_competition" />
-        <item itemvalue="Python.5.care_of_puppy" />
-        <item itemvalue="Python.4. balls" />
-        <item itemvalue="Python.3.painting_eggs" />
-        <item itemvalue="Python.2.skeleton" />
+        <item itemvalue="Python.town" />
+        <item itemvalue="Python.articles" />
+        <item itemvalue="Python.movie" />
+        <item itemvalue="Python.vehicle" />
+        <item itemvalue="Python.inventory" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698075337344</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Exercise">
+      <created>1698161132492</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698161132492</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
