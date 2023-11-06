@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18a99f43-9345-49e9-a1a7-7ca0459f5b4d" name="Changes" comment="Exercise">
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/catalogue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/town.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/weapon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Practice/comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Practice/email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Practice/party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Practice/zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam Exercise/1.bonus_scoring_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam Exercise/2.mu_online.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam Exercise/3.heart_delivery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam Exercise/bonus_scoring_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals/6.OOP/Exercise/articles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam/man_o_war.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals/Exam Preparation/MidExam/3.man_o_war.py" afterDir="false" />
-    </list>
+    <list default="true" id="18a99f43-9345-49e9-a1a7-7ca0459f5b4d" name="Changes" comment="Exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -296,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698161132492</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Exercise">
+      <created>1698431247719</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698431247719</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
