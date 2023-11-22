@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18a99f43-9345-49e9-a1a7-7ca0459f5b4d" name="Changes" comment="Exercise">
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice/statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice/students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/a_miner_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/count_chars_in_a_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/force_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/legendary_farming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/phonebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/softuni_exam_results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/softuni_parking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice/word_synonyms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice/ASCII_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice/ASCII_values.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +78,8 @@
       <recent name="C:\Users\Hristiyana\Documents\GitHub\SoftUni_Python\1.Basic Syntax, Conditional Statements and Loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.students">
-    <configuration name="bakery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.courses">
+    <configuration name="courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice/bakery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/courses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="softUni_course_planning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="force_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/5. List Advanced/Exercice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/5. List Advanced/Exercice/softUni_course_planning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/force_book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="legendary_farming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice/statistics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/legendary_farming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice/stock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/orders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="softuni_parking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Practice/students.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/7.Dictionaries/Exercice/softuni_parking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.students" />
-        <item itemvalue="Python.statistics" />
-        <item itemvalue="Python.stock" />
-        <item itemvalue="Python.bakery" />
-        <item itemvalue="Python.softUni_course_planning" />
+        <item itemvalue="Python.courses" />
+        <item itemvalue="Python.softuni_parking" />
+        <item itemvalue="Python.orders" />
+        <item itemvalue="Python.force_book" />
+        <item itemvalue="Python.legendary_farming" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699269863020</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Exercise">
+      <created>1700207934635</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1700207934635</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
